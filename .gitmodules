@@ -1,0 +1,9 @@
+[submodule "API"]
+	path = API
+	url = git@github.com:s21templero/TelegramTasks.API.git
+[submodule "Bot"]
+	path = Bot
+	url = git@github.com:s21templero/TelegramTasks.Bot.git
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:s21templero/TelegramTasks.Frontend.git
